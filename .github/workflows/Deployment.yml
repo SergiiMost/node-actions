@@ -29,7 +29,7 @@ jobs:
         run: npm ci
       # This is a placeholder for the build step
       - name: Build project
-        run: echo "Building the project...
+        run: echo "Building the project..."
       # This is a placeholder for the deployment step
       - name: Deploy to production
         run: echo "Deploying to production server..."
